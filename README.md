@@ -18,9 +18,3 @@ A simple password manager application built using Python and Tkinter, allowing u
 - Tkinter (for the GUI)
 - Cryptography (for encryption)
 - JSON (for data storage)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/simple-password-manager.git
